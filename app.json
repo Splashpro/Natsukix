@@ -1,5 +1,5 @@
 {
-      "name": "Nutsuki",
+      "name": "Nutsukix",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/12a67bfae430322ceb2e8.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "TheNatsukiBot"
       ],   
-   "repository": "https://github.com/Sadew451/Nutsuki",
+   "repository": "https://github.com/Splashpro/Nutsukix",
    "addons": [
       {
          "options": {
