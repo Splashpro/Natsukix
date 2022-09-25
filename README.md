@@ -1,12 +1,12 @@
-<h1 align="center"><b>✨ Natsuki ✨</b></h1> 
+<h1 align="center"><b><b>❤️ Natsuki ❤️</b></b></h1>
 
-##  Are You Okay Baby I'm [Natsuki](https://t.me/TheNatsukibot) 
+##  Fixed I'm [Natsuki](https://t.me/TheNatsukibot) 
+ 
+## Unmaintained. The new repo of [@TheNatsukiBot](https://t.me/TheNatsukibot) is `private`. 
 
-## Unmaintained. The new repo of [@TheNatsukiBot](https://t.me/TheNatsukibot) is public. 
+## ⚡ It is no longer based on this source code. The completely rewritten bot available now on telegram
 
-## ⚡ (It is no longer based on this source code. The completely rewritten bot available now on telegram)
-
-![Contributors](https://contrib.rocks/image?repo=Sadew451/Natsuki)
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/NK?label=Repo%20Size)
 
 <p align="center">
     <a href="https://python.org">
@@ -24,6 +24,12 @@
     <img src="https://img.shields.io/github/stars/Sadew451/Natsuki?style=for-the-badge&logo=appveyor" alt="Stars">
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
+
+![GitHub](https://img.shields.io/github/license/Sadew451/Natsuki)
+
+- https://sadew451.github.io/Natsuki.Web/
+
+<img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/open-book_1f4d6.png">
 
 <h3 align="center"> 
     Ready to use method
@@ -43,7 +49,12 @@
 
 > Thanks to everyone who starred Natsuki, That is the greatest pleasure we have !
 
-# 🧙‍♀️ Deploy Guide
+### Deployment Dont Deploy on this URL `Deploy on Brach`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
+
+
+# Deploy Guide
 
 ## Complete guide on deploying @TheNatsukiBot's clone on Heroku.
 
@@ -53,12 +64,12 @@
 
 ☆ Video by [SADEW JAYASEKARA](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w) ☆
 
-### TeamNatsuki
+## TeamNatsuki
 
 ## Avaiilable on Telegram as [@TheNatsukiBot](https://t.me/thenatsukibot)
 
-# 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
+# 🏃‍♂️ Deploy 
+## Connect Github Cant Deploy On Url
 
 <a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
@@ -79,20 +90,19 @@ $ pip3 install -r requirements.txt
 # Start Bot 
 $ python3 -m Natsuki
 ```
-
 ### Mandatory Vars 🙋‍♀️
 ```
 [+] Make Sure You Add All These Mandatory Vars. 
     [-] APP_ID:   You can get this value from @SDMyTgOrgBot
     [-] APP_HASH :   You can get this value from @SDMyTgOrgBot
-    [-] MONGO_URI : Your Mongo DB DataBase Url. .
     [-] TOKEN: Get from botfarther
     [-] DATABASE_URL: from elephantsql.com
     [-] OWNER_ID: ur id
-    [-] MONGO_PORT: 27017
-    [-] MONGO_DB': 'Natsuki
 [+] The Natsuki won't run without setting the mandatory vars.
 ```
+> ## Supporters
+
+![Contributors](https://contrib.rocks/image?repo=Sadew451/Natsuki)
 
 ## Special Credits
 - [Inukaasith](https://gitlab.com/inukaasith)
@@ -100,14 +110,14 @@ $ python3 -m Natsuki
 - [Damantha126](https://github.com/Damantha126)
 - [AlbertEinsteinTG](https://github.com/AlbertEinsteinTG)
 - [ImJanindu](https://github.com/ImJanindu) 
-- [AioGram Project group](https://github.com/aiogram) 
+- [darkphoenix](https://github.com/darkphoenix2601) 
+- [M.Furkan](https://github.com/muhammedfurkan)
 
 All other credits mentioned on top of scripts
 
 Anything missing kindly let us know at [Natsuki Support](https://t.me/NatsukiSupport_Official) or simply submit a pull request on the readme.
 
-
-## Devs & Contributors
+## Devs & Contributors 
 
 #### • SADEW JAYASEKARA    »»  <a href="https://github.com/SADEW451" alt="SADEW451"> <img src="https://img.shields.io/badge/SADEW451-90302f?logo=github" /></a> (OWNER)
 #### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
